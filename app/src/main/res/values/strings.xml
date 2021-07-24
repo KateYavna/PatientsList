@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PatientsList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameList">Boris</string>
+    <string name="lastNamelist">Johnson</string>
+    <string name="detailsList">Repeated complaints about hairdressers are chronic</string>
+    <string name="sex">Mr</string>
+    <string name="age">Was born in 1964</string>
+</resources>
